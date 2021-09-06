@@ -1,2 +1,2 @@
-# drawio-floder
-Drawio Floder
+# drawio-folder
+Drawio Folder
